@@ -1,5 +1,5 @@
 <template>
-  <h1>页面：main</h1>
+  <h1>页面：project2</h1>
   <div class="area nav">
     <div class="nav-item">
       <h3>切换路由</h3>
@@ -8,9 +8,9 @@
     </div>
     <div class="nav-item">
       <h3>切换页面</h3>
+      <a href="/project2"><button>project2</button></a>
       <a href="/"><button>main</button></a>
       <a href="/project1"><button>project1</button></a>
-      <a href="/project2"><button>project2</button></a>
     </div>
   </div>
   <div class="area">

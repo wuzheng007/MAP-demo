@@ -5,6 +5,10 @@ const router = createRouter({
   routes: [
     {
       path: '/',
+      redirect: '/project1',
+    },
+    {
+      path: '/project1',
       name: 'home',
       component: HomeView
     },
